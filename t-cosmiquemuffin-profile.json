@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-10T17:38:43Z",
+  "IdClaims": [
+    {
+      "Claim": "t:cosmiquemuffin"
+    },
+    {
+      "Claim": "spout:cosmiquemuffin"
+    },
+    {
+      "Claim": "mdon:@cosmiquemuffin@tech.lgbt"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "ba8b561d2f456e5e161c95c4",
+    "Timestamp": "2023-04-10T17:45:01Z",
+    "Signature": "0dbee0837721341e5779ff9a0e947d6958cbc83d20414f9c867a5db70c106457d1a99e245c0692a10923b2edb7ba1592d7775b8e4a0e4f0d0be98703493dffa7964c078da0e97f119cefdfc17af8ec848c8eed1365071b596c9bddf23362d4305794268ddbf698b89577fe4ce2e45c0d3187197b2e19c34bb83f7f88f6f50b37cc23a985adf65ede757e607eb343bdc7a510e782e023d27b2aafb914d4036f7a49f307e77371a75cf72fc3f8f684d62bae35d37e3ca7a4f0dc6ade690098f0b6ba1e59ed9a6af7633d9a76116f65ccab649475f51631876fee301fb0d33382990cdf1d94e007eb2f6b662e6c7f2034ac16909c64c8fb18b4a3334675da8ca4df"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "509dc193892c9fa45b723c967817b2bf16449fdf8e6fe842288304a2ca0e325f",
+  "ContentToHash": "v1|mdon:@cosmiquemuffin@tech.lgbt,spout:cosmiquemuffin,t:cosmiquemuffin|2023-04-10T17:38:43Z"
+}
